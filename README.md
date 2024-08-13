@@ -40,39 +40,52 @@ The objective of this task is to design basic digital logic circuits, including 
 
 ### Key Insights
 
-1. *Fundamentals of Digital Logic Design*:
-   - Understanding the basic building blocks of digital circuits, such as logic gates, adders, and multiplexers, and their implementations in Verilog.
+**OR gate**
+![Screenshot 2024-08-12 071040](https://github.com/user-attachments/assets/6d4a81d5-2c46-454c-8ad1-ff7bd7f0367c)
 
-2. *Verilog Syntax and Constructs*:
-   - Mastery of Verilog syntax and constructs for describing and modeling digital circuits effectively.
-     
-3. *Simulation Verification*:
-   - The importance of simulating Verilog designs to ensure that the circuits function correctly and meet design specifications.
-     
-4. *Waveform Analysis*:
-   - Using waveform viewers to analyze simulation results, helping to verify the correctness of signal behavior and timing in the digital circuits.
-   
+**Simulation code**
+![Screenshot 2024-08-12 071155](https://github.com/user-attachments/assets/a7641867-3969-4137-9f8b-b15155b79d09)
+Behavior
+![Screenshot 2024-08-12 073023](https://github.com/user-attachments/assets/5932f66f-6d60-47f3-8e44-7308fce96555)
+ 
+**AND GATE**
+![Screenshot 2024-08-12 072048](https://github.com/user-attachments/assets/93f398e3-4082-4750-992c-836ee2cf4044)
 
-### Procedure
+**SIMULATION**
+![Screenshot 2024-08-12 072145](https://github.com/user-attachments/assets/b8cd90c7-5bd6-41ce-9e31-0c1180a23d45)
 
-Step 1 : After login into Amazon AWS, Visit the EC2 instance 
+**BEHAVIOR**
+![Screenshot 2024-08-12 072218](https://github.com/user-attachments/assets/819d1df1-529e-497b-9e06-22942f8f30bd)
 
+**NOT GATE**
+![Screenshot 2024-08-12 071714](https://github.com/user-attachments/assets/bb63a133-df1f-4152-90d3-b7e47122072f)
 
-Step 2 : Then we will directed to the another webpage, then we will click here to launch instance, then we will proceed to next step 
-where, we will fill all required info about Name, AMI etc, we will have the new instance live after few seconds.
+**SIMULATION**
+![Screenshot 2024-08-12 071654](https://github.com/user-attachments/assets/e2f12dbb-e4ac-42b0-bec8-f4ecb5ec15ca)
 
+**BEHAVIOR**
+![Screenshot 2024-08-12 071626](https://github.com/user-attachments/assets/c3a5293a-f146-49ab-a3dd-03fff10b3ec7)
 
-Step 3 : Then we will click in Required Instance, then click on connect for further proceed. As we click, we will have console.
+**NAND GATE**
+![Screenshot 2024-08-12 074844](https://github.com/user-attachments/assets/e3c39313-ef49-4925-84cb-092f035c42d6)
 
+**SIMULATION**
+![Screenshot 2024-08-12 074857](https://github.com/user-attachments/assets/087be8bb-d3ff-4435-85d4-3ba5716177d1)
 
+**NOR GATE**
+![Screenshot 2024-08-12 075216](https://github.com/user-attachments/assets/ecdf58d7-90e2-4e82-9039-aec8bb34e35d)
 
-Step 4 : In console, we will run various cmd for updation, upload github wepage link, uploading webpages file.
+**SIMULATON**
+![Screenshot 2024-08-12 075200](https://github.com/user-attachments/assets/92f617cf-482f-4508-9468-16a26d4673e5)
 
+**BEHAVIOR**
+![Screenshot 2024-08-12 075144](https://github.com/user-attachments/assets/da7fbc32-2f61-4950-975d-42c7958490d9)
 
+**UNIVESAL GATE IN ONE CIRCUIT**
+![Screenshot 2024-08-12 075716](https://github.com/user-attachments/assets/2d40ff05-7b89-407c-a69e-d2ee949a19f2)
 
-Step 5 : Then, by Selecting the instance , gone to Security Groups & in inbound rules, we will change it to https & https, for public accessible all over the internet.
+**SIMULATION**
+![Screenshot 2024-08-12 075658](https://github.com/user-attachments/assets/09ea32ed-14ef-406b-a4b9-fb550d244211)
 
-
-
-Step 6 : Then, we will seen that our webpage got live, while accessing through the public ip address
-
+**BEHAVIOR**
+![Screenshot 2024-08-12 075647](https://github.com/user-attachments/assets/809da483-ad8d-4020-b3c3-e28c73850a4e)
